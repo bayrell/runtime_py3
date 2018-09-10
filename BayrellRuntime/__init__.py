@@ -2,7 +2,7 @@
 
 
 
-__name__ = "BayrellRuntime"
+__name__ = "bayrell-runtime"
 __version__ = "0.0.1"
 __description__ = "Bayrell Runtime"
 __license__ = "Apache License Version 2.0"
